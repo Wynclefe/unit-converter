@@ -3,6 +3,7 @@ body {
     background: #E5E5E5;
     width: 800px;
     text-align: center;
+    display: flex;
 }
 
 .container {
@@ -20,4 +21,12 @@ body {
     width: 550px;
     height: 285px;
     background: #6943FF;
+}
+
+#length-section {
+width: 500px;
+height: 108.57px;
+margin: 0 auto;
+background: #273549;
+border-radius: 4.68077px 0px 0px 0px;
 }
