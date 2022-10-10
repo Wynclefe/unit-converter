@@ -23,10 +23,19 @@ body {
     background: #6943FF;
 }
 
-#length-section {
-width: 500px;
-height: 108.57px;
-margin: 0 auto;
-background: #273549;
-border-radius: 4.68077px 0px 0px 0px;
+#length-section{
+    width: 500px;
+    height: 108.57px;
+    margin: 0 auto;
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+}
+
+#volume-section{
+        width: 500px;
+        height: 108.57px;
+        margin: 0 auto;
+        background: #273549;
+        border-radius: 4.68077px 0px 0px 0px;
+
 }
