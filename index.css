@@ -12,4 +12,12 @@ body {
     height: 729px;
     left: 696px;
     background: #1F2937;
+
+}
+
+#header {
+    padding-top: 10px;
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
 }
