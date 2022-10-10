@@ -4,3 +4,12 @@ body {
     width: 800px;
     text-align: center;
 }
+
+.container {
+    position: absolute;
+    margin-top: 50px;
+    width: 550px;
+    height: 729px;
+    left: 696px;
+    background: #1F2937;
+}
