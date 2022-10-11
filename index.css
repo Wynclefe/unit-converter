@@ -51,13 +51,27 @@ body {
     border-radius: 5px;
 }
 
+    
 .result-section{
+    /* Box specifications */
     width: 500px;
     height: 108.57px;
     margin: 0 auto;
     background: #273549;
     border-radius: 4.68077px 0px 0px 0px;
 }
+
+.unit-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    color: #CCC1FF;
+    padding-top: 31px;
+    }
+    
+
 
 #input-el {
     /* box specifications  */
