@@ -21,6 +21,11 @@ body {
     width: 550px;
     height: 285px;
     background: #6943FF;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 38px;
 }
 
 .result-section{
@@ -31,4 +36,3 @@ body {
     border-radius: 4.68077px 0px 0px 0px;
 }
 
-/* status: css styling */
