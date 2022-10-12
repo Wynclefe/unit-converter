@@ -9,8 +9,11 @@ let meterResult = document.getElementById("meter-result")
 let volumeResult = document.getElementById("volume-result")
 let massResult = document.getElementById("masss-result")
 
-function renderResult() {
-    convertBtn.addEventListener("click", function (){
+convertBtn.addEventListener("click", function (){
+        let meterToFeet = `${inputEl.value} meters = ${inputEl.value * 3.281} meters`
+        console.log(meterToFeet)
     })
-}
+    
+
+
 
