@@ -2,7 +2,8 @@ body {
     margin: 0 auto;
     height: 100vh;
     background: linear-gradient(black, #8265f7);
-    width: 800px;
+    width: 400px;;
+    min-width:1000px;
     text-align: center;
     display: flex;
 }
