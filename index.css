@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    background: #E5E5E5;
+    height: 100vh;
+    background: linear-gradient(black, #8265f7);
     width: 800px;
     text-align: center;
     display: flex;
