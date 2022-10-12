@@ -11,7 +11,9 @@ const massResult = document.getElementById("masss-result")
 
 convertBtn.addEventListener("click", function (){
         const meterToFeet = `${inputEl.value} meters = ${inputEl.value * 3.281} meters | ${inputEl.value} feet = ${(inputEl.value / 3.281).toFixed(3)} feet`
+        const volumeConversion = `${inputEl.value} liters = ${(inputEl.value * 0.264).toFixed(3)} gallons | ${inputEl.value} gallons = ${(inputEl.value / 0.264).toFixed(3)} liters`        
         meterResult.textContent = meterToFeet
+        volumeResult.textContent = volumeConversion
         console.log(meterToFeet)
       
     })
