@@ -11,9 +11,9 @@ body {
 .container {
     position: absolute;
     margin-top: 50px;
+    margin-left: 200px;
     width: 550px;
     height: 729px;
-    left: 780px;
     background: #1F2937;
 
 }
